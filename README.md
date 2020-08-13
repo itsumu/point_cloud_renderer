@@ -17,3 +17,5 @@ Please note that the default up direction of camera is along positive y. Feel fr
 point clouds and concat them together. A mesh is loaded as a reference and points are all loaded from an h5 file and transformed accordingly. This script
 is derived from a gallery renderer of our paper (Coming soon...). The original one renders batch of images, so you can see
 a loop is maintained in the script. It is straightforward to modify this script and your h5 file to enable large batch rendering. 
+
+![alt text](images/gallery.png?raw=true)
